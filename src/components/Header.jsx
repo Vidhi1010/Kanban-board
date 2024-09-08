@@ -18,7 +18,7 @@ const Header = () => {
                     </defs>
                 </svg>
 
-                <div className="ml-1 ">INFINITY</div>
+                <div className="ml-1 pl-10">INFINITY</div>
             </div>
         </div>
     )
